@@ -35,8 +35,8 @@ Work experience
   * Duties included:
   * - Bayesian Optimization Path Planning Design and Development
   * Supervisor: Dr. Sergio Toral
-<!--   
-Skills
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
