@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Federico Peralta / PhD Candidate"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Federico Peralta"
+description              : &description "from Asunción, Paraguay, received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay. Currently, he is an Automatics, Electronics and Telecommunications Engineering PhD candidate at the University of Seville, where he works as a Research Assistant. He focuses his work on the development of GNC systems for autonomous vehicles and robotics applications."
+url                      : https://fedeperalta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "FedePeralta/fedeperalta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &heyfedeperalta
 facebook:
-  username               :
+  username               : heyfedeperalta
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Federico Peralta"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Seville, Spain"
+  employer         : "Universidad de Sevilla"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "fperalta@us.es"
+  researchgate     :  "https://www.researchgate.net/profile/Federico-Peralta"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "FedePeralta"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "fede_peralta"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/federico-peralta-807422126/"
+  orcid            : "http://orcid.org/0000-0001-8847-3555"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "heyfedeperalta"
   vine             :
   weibo            :
   xing             :
