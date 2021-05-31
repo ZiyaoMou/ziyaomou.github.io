@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Degree in Mechatronics, Universidad Nacional de Asunción, Paraguay, 2019
+* Ph.D in Automatics, Electronics and Telecommunications Engineering, University of Seville, Spain, 2022 (expected)
 
-Work experience
-======
+<!-- Work experience -->
+<!-- ======
 * Summer 2015: Research Assistant
-  * Github University
+  * Universidad Nacional de Asunción
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub -->
+<!--   
 Skills
 ======
 * Skill 1
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
