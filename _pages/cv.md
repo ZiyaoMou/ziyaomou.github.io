@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Engineering Degree in Mechatronics, Universidad Nacional de Asunción, Paraguay, 2019
-* Ph.D in Automatics, Electronics and Telecommunications Engineering, University of Seville, Spain, 2022 (expected)
+* Engineering Degree in Mechatronics, Universidad Nacional de Asunción, Paraguay, 2013-2019
+* Ph.D in Automatics, Electronics and Telecommunications Engineering, University of Seville, Spain, 2020-2022 (expected)
 
 Work experience
 ======
-* Fall 2018: Research Assistant
+* Fall 2018: [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
   * Facultad de Ingeniería, Universidad Nacional de Asunción (Asunción, Paraguay)
   * Duties included:
   * - Local Path Planning Development
   * - Communications Design and Development
   * Supervisor: Dr. Derlis O. Gregor
 
-* Fall 2019: Research Assistant
+* Fall 2019: [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
   * Facultad de Ingeniería, Universidad Nacional de Asunción (Asunción, Paraguay)
   * Duties included:
   * - Multi-Robot Local Path Planning Development
