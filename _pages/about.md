@@ -15,7 +15,7 @@ redirect_from:
 
 Hi, I'm Fede, from Asunción, Paraguay. I received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay.
 Currently, I'm a PhD candidate in Automatics, Electronics and Telecommunications Engineering at the University of Seville,
-where I works a a Research Assistant. I focus my work on the development of GNC systems for autonomous vehicles and robotics applications.
+where I work as a Research Assistant. I focus my work on the development of GNC systems for autonomous vehicles and robotics applications.
 
 ### Interest
 * Autonomous Vehicles
