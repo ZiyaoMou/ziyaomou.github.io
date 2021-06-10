@@ -48,7 +48,7 @@ Work experience
   * Supervisor: Dr. Sergio Toral
  
 * June (2021): Member of Team
-  * P18-TP-1520 PAIDI Spain
+  * Proejct: P18-TP-1520 PAIDI Spain
   * Electronics Department, University of Seville (Sevilla, España)
   * Duties included:
     - WiFi Node tags design and development
