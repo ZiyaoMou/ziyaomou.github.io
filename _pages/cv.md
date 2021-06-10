@@ -16,24 +16,42 @@ Education
 
 Work experience
 ======
-* Fall 2018: [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
+* August-November (2018): [Research Technician](https://datos.conacyt.gov.py/proyectos/pdf/788)
+  * Project: PINV15-177 CONACYT Paraguay
   * Facultad de Ingeniería, Universidad Nacional de Asunción (Asunción, Paraguay)
   * Duties included:
-  * - Local Path Planning Development
-  * - Communications Design and Development
+    - Local Path Planning Research and Development
+    - Communications Design and Development
   * Supervisor: Dr. Derlis O. Gregor
 
-* Fall 2019: [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
+* August-December (2019): [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
+  * Project: PINV15-177 CONACYT Paraguay
   * Facultad de Ingeniería, Universidad Nacional de Asunción (Asunción, Paraguay)
   * Duties included:
-  * - Multi-Robot Local Path Planning Development
-  * - Graphic User Interface Design and Development
+    - Local Path Planning Development
+    - Hardware configuring and deployment
+  * Supervisor: Dr. Mario Arzamendia
+  
+* June-September (2020): [Research Assistant](https://datos.conacyt.gov.py/proyectos/pdf/788)
+  * Project: PINV15-177 CONACYT Paraguay
+  * Facultad de Ingeniería, Universidad Nacional de Asunción (Asunción, Paraguay)
+  * Duties included:
+    - Multi-Robot Local Path Planning Development
+    - Graphic User Interface Design and Development
   * Supervisor: Dr. Mario Arzamendia
 
-* Fall 2020: [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
+* September-ongoing (2020): [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
+  * Project: US-1257508 FEDER Spain
   * Electronics Department, University of Seville (Sevilla, España)
   * Duties included:
-  * - Bayesian Optimization Path Planning Design and Development
+    - Bayesian Optimization Path Planning Design and Development
+  * Supervisor: Dr. Sergio Toral
+ 
+* June (2021): Member of Team
+  * P18-TP-1520 PAIDI Spain
+  * Electronics Department, University of Seville (Sevilla, España)
+  * Duties included:
+    - WiFi Node tags design and development
   * Supervisor: Dr. Sergio Toral
 
 <!-- Skills
