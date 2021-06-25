@@ -28,7 +28,7 @@ where I work as a Research Assistant. I focus my work on the development of GNC 
 * Programming (mostly Python/C/C++/C#/Java) (6+ years of experience)
 * Leading short-term projects.
 * Design and implementation of IoT projects/services. 
-* Drinking coffee :coffee:
+* Drinking coffee :coffee:.
 * Academic Writting.
 
 Please, use any of the social media links on your left to contact me, with the one that best suits your inquiries.
