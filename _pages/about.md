@@ -19,6 +19,7 @@ where I work as a Research Assistant. I focus my work on the development of GNC 
 
 ### Interest
 * Autonomous Vehicles
+* Optimization and Decision under Uncertainty
 * Online/Offline Path Planning
 * High-Level architecture design of mobile systems
 * Development and implementation of multi-robot systems
