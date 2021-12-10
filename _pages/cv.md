@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* September-ongoing (2020-): [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
+* September-ongoing (2020-2022): [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
   * Project: US-1257508 FEDER Spain
   * Electronics Department, University of Seville (Sevilla, España)
   * Duties included:
