@@ -12,13 +12,20 @@ redirect_from:
 Education
 ======
 * Engineering Degree in Mechatronics, Universidad Nacional de Asunción, Paraguay, 2013-2019
-* Ph.D in Automatics, Electronics and Telecommunications Engineering, University of Seville, Spain, 2020-2022 (expected)
+* Ph.D in Automatics, Electronics and Telecommunications Engineering, University of Seville, Spain, 2020-2022.
 * Visiting Postgraduate Researcher in Operation Research, Warwick Business School, United Kingdom, November 2021 - January 2022
 
 Work experience
 ======
 
-* September-ongoing (2020-2022): [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
+* September-April (2020-2022): [Research Technician](https://eventos.uloyola.es/85675/sections/38346/sesiones.html)
+  * Project: FEDER Spain
+  * Electronics Department, Loyola University (Sevilla, España)
+  * Duties included:
+    - Bayesian Optimization Path Planning Design and Development
+  * Supervisors: Dr. Isabel Jurado, Dr. Daniel Gutierrez Reina
+
+* September-April (2020-2022): [Research Technician](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30374)
   * Project: US-1257508 FEDER Spain
   * Electronics Department, University of Seville (Sevilla, España)
   * Duties included:
