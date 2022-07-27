@@ -14,8 +14,7 @@ redirect_from:
 # Quick resume of my life
 
 Hi, I'm Fede, from Asunción, Paraguay. I received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay.
-Currently, I'm a PhD candidate in Automatics, Electronics and Telecommunications Engineering at the University of Seville,
-where I work as a Research Assistant. I focus my work on the development of GNC systems for autonomous vehicles and robotics applications.
+Then, in 2022 I became PhD in Automatics, Electronics and Telecommunications Engineering at the University of Seville. I focus my work on the development of autonomous systems for intelligent decision-making under uncertainty, focusing on autonomous vehicles and robotics applications. Currently, I am an Assistant Professor at Loyola University.
 
 ### Interest
 * Autonomous Vehicles
