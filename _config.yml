@@ -11,9 +11,9 @@ title                    : "Federico Peralta / PhD Candidate"
 title_separator          : "-"
 name                     : &name "Federico Peralta"
 description              : &description "from Asunción, Paraguay, received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay. Currently, he is an Automatics, Electronics and Telecommunications Engineering PhD candidate at the University of Seville, where he works as a Research Assistant. He focuses his work on the development of GNC systems for autonomous vehicles and robotics applications."
-url                      : https://fedeperalta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peraltafede.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FedePeralta/fedeperalta.github.io"
+repository               : "PeraltaFede/peraltafede.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
