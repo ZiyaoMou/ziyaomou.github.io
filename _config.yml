@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Federico Peralta / PhD Candidate"
+title                    : "Federico Peralta / PhD, Assistant Professor. "
 title_separator          : "-"
 name                     : &name "Federico Peralta"
 description              : &description "from Asunción, Paraguay, received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay. Currently, he is an Automatics, Electronics and Telecommunications Engineering PhD candidate at the University of Seville, where he works as a Research Assistant. He focuses his work on the development of GNC systems for autonomous vehicles and robotics applications."
