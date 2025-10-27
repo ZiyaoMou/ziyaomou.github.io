@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Federico Peralta / PhD, Assistant Professor. "
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Federico Peralta"
-description              : &description "from Asunción, Paraguay, received in 2019 a degree in mechatronics engineering from the National University of Asunción, Paraguay. Currently, he is an Automatics, Electronics and Telecommunications Engineering PhD from the University of Sevilla. Now, he is an Assistant Professor at Universidad Loyola Andalucia. He focuses his work on the development of GNC systems for autonomous vehicles and robotics applications."
-url                      : https://peraltafede.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ziyao Mou"
+description              : &description "a second-year M.S. student in Computer Science at Johns Hopkins University, advised by Prof. Eric Nalisnick and Prof. Anqi Liu."
+url                      : https://ziyaomou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeraltaFede/peraltafede.github.io"
+repository               : "ZiyaoMou/ziyaomou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &heyfedeperalta
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Federico Peralta Samaniego"
+  name             : "Ziyao Mou"
   avatar           : "profile.jpg"
-  bio              : "PhD, Assistant Professor"
-  location         : "Seville, Spain"
-  employer         : "Universidad Loyola Andalucia"
-  googlescholar    : "https://scholar.google.com/citations?user=vl5yapYAAAAJ&hl=en"
-  email            : "fdperalta@uloyola.es"
+  bio              : "MS student in Computer Science"
+  location         : "Baltimore, USA"
+  employer         : "Johns Hopkins University"
+  googlescholar    : 
+  email            : "mouziyao.mzy@outlook.com"
   researchgate     : # "https://www.researchgate.net/profile/Federico-Peralta"
   uri              :
   bitbucket        :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PeraltaFede"
+  github           : "ZiyaoMou"
   google_plus      :
   keybase          :
-  instagram        : "fede_peralta"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "federico-peralta-807422126/"
-  orcid            : "http://orcid.org/0000-0001-8847-3555"
+  linkedin         : "ziyao-mou-8974a730a/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "heyfedeperalta"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -178,7 +178,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: false

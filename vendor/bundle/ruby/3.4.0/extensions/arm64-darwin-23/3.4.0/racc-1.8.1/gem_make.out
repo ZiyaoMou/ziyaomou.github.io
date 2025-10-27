@@ -1,0 +1,18 @@
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-85744-6h0yvt sitelibdir\=./.gem.20251026-85744-6h0yvt clean
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-85744-6h0yvt sitelibdir\=./.gem.20251026-85744-6h0yvt
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-85744-6h0yvt sitelibdir\=./.gem.20251026-85744-6h0yvt install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251026-85744-6h0yvt/racc
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-85744-6h0yvt sitelibdir\=./.gem.20251026-85744-6h0yvt clean
