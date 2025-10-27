@@ -16,22 +16,22 @@ B.Eng. in Computer Science, Huazhong University of Science and Technology, Sept.
 
 Publications & Preprints
 ======
-**Learning to Defer under Expert Drift.**(*Under Review*) [[pdf]](https://drive.google.com/file/d/1EHj1A1PRv44Aevy9tC_NaiGcmIrGZdMA/view?usp=sharing)  
-Ziyao Mou, Andrea Wynn, Eric Nalisnick 
+Ziyao Mou, Andrea Wynn, Eric Nalisnick. *Learning to Defer under Expert Drift.*(*Under Review*) [[pdf]](https://drive.google.com/file/d/1EHj1A1PRv44Aevy9tC_NaiGcmIrGZdMA/view?usp=sharing)  
+
 
 Work experience
 ======
 **Software Development Engineer**  
-*Jul 2023 – Jul 2024* · Alibaba Group, Taobao Search Section  
+*Jul 2023 – Jul 2024* · Alibaba Group, Taobao Search Team  
 Led full-stack development of Taobao’s AI-powered shopping assistant, delivering a cross-platform UI with intelligent features such as product comparison, recommendations, and travel planning. 
 
 **Software Development Engineer**  
-*Jul 2022 – Jul 2023* · Alibaba Group, Platform Infrastructure Section  
+*Jul 2022 – Jul 2023* · Alibaba Group, Platform Infrastructure Team  
 Built a user experience reporting & telemetry platform that ingests multimedia feedback and logs, with a BERT-based sentiment clustering pipeline and screenshot similarity detection.
 
 **Software Development Engineer Intern**  
-*Jun 2021 – Aug 2021* · Alibaba Group, Buyer Base Link Section  
-Designed and implement an edge-computing streaming rendering full-stack architecture using Serverless technologies to improve responsiveness on low-end and older devices.
+*Jun 2021 – Aug 2021* · Alibaba Group, Buyer Base Link Team  
+Designed and implemented an edge-computing streaming rendering full-stack architecture using Serverless technologies to improve responsiveness on low-end and older devices.
 
 [comment]: <> (<!-- Skills)
 
@@ -68,12 +68,12 @@ Machine Learning: Artificial Intelligence System Design and Development, *Fall 2
 
 Skills
 ======
-**Languages:** English, Mandarin Chinese  
+**Languages:** English, Mandarin Chinese.  
 
-**Programming:** Python, Java, C/C++, SQL, TypeScript, HTML/CSS  
+**Programming:** Python, Java, C/C++, SQL, TypeScript, HTML/CSS.  
 
-**Cloud & DevOps:** AWS (S3, Lambda), Serverless, Docker, Kubernetes  
+**Cloud & DevOps:** AWS (S3, Lambda), Serverless, Docker, Kubernetes.  
 
-**Machine Learning & Data:** PyTorch, NumPy, Pandas, Scikit-learn  
+**Machine Learning & Data:** PyTorch, NumPy, Pandas, Scikit-learn.  
 
-**Tools & Version Control:** Git.
+**Tools & Version Control:** Git. 

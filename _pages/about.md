@@ -22,7 +22,7 @@ My research focuses on **human-AI collaboration** and **trustworthy AI**. I stud
 
 
 ### I'm good at
-* Programming (Python/C++/C/Typescript) (7+ years of experience)
+* Programming (Python/Typescript/C++/C) (7+ years of experience)
 * Leading full-stack application development
 * Exploring and collecting authentic local cuisines
 * Table tennis (especially proud of my killer backhand 😎)
