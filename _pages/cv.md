@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- 
-{% include base_path %} -->
+
+{% include base_path %}<u><a href="www.ziyaomou.github.io/files/ziyaomou_cv_nov_2.pdf">[download]</a>.</u>
 
 Education
 ======
@@ -16,7 +16,7 @@ B.Eng. in Computer Science, Huazhong University of Science and Technology, Sept.
 
 Publications & Preprints
 ======
-Ziyao Mou, Andrea Wynn, Eric Nalisnick. *Learning to Defer under Expert Drift.*(*Under Review*)
+Ziyao Mou, Andrea Wynn, Eric Nalisnick. *Learning to Defer under Expert Drift.*(*Under Review*) <u><a href="www.ziyaomou.github.io/files/l2d_under_expert_drift.pdf">[pdf]</a>.</u>
 
 Work experience
 ======

@@ -1,0 +1,18 @@
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/yang/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251102-44421-ws7d0c sitelibdir\=./.gem.20251102-44421-ws7d0c clean
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251102-44421-ws7d0c sitelibdir\=./.gem.20251102-44421-ws7d0c
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251102-44421-ws7d0c sitelibdir\=./.gem.20251102-44421-ws7d0c install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251102-44421-ws7d0c/racc
+
+current directory: /Users/yang/ziyaomou.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251102-44421-ws7d0c sitelibdir\=./.gem.20251102-44421-ws7d0c clean
