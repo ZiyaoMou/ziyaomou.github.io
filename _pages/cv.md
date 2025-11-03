@@ -16,7 +16,7 @@ B.Eng. in Computer Science, Huazhong University of Science and Technology, Sept.
 
 Publications & Preprints
 ======
-Ziyao Mou, Andrea Wynn, Eric Nalisnick. *Learning to Defer under Expert Drift.*(*Under Review*) <u><a href="/files/ziyaomou_cv_nov_2.pdf">[pdf]</a>.</u>
+Ziyao Mou, Andrea Wynn, Eric Nalisnick. *Learning to Defer under Expert Drift.*(*Under Review*) <u><a href="/files/l2d_under_expert_drift.pdf">[pdf]</a>.</u>
 
 Work experience
 ======
