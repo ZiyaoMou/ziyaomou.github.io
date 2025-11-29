@@ -9,19 +9,14 @@ redirect_from:
 ---
 # Quick resume of my life
 
-Hi, I’m Ziyao, a second-year M.S. student in Computer Science at **Johns Hopkins University**, advised by **Prof. Eric Nalisnick** and **Prof. Anqi Liu**. 
-Before that, I received my B.Eng. in Computer Science from Huazhong University of Science and Technology in 2022, and I also worked as a Software Development Engineer at Alibaba prior to joining JHU.
+Hi, I’m Ziyao, a second-year M.S. student in Computer Science at **Johns Hopkins University**, advised by **Prof. Eric Nalisnick**. I am also working with **Prof. Anqi Liu**. Before that, I received my B.Eng. in Computer Science from Huazhong University of Science and Technology in 2022, and I also worked as a Software Development Engineer at Alibaba prior to joining JHU.
 
-My research focuses on **human-AI collaboration** and **trustworthy AI**. I study how human factors influence system performance and decision-making, and how to model and calibrate uncertainty in machine learning and reinforcement learning algorithms to build more reliable and adaptive AI systems.
+I study how people and AI systems make decisions together, especially in real-world settings where environments, human behavior and model behavior can change over time. My work focuses on three core questions:
+* How should we allocate tasks between humans and AI models?
+* How can decision-making stay reliable when environments shift?
+* How can foundation models show when they are unsure and improve their explainability?
 
-### Interest
-* Human-AI collaboration and human-in-the-loop learning
-* Probabilistic modeling and uncertainty calibration
-* Robust and safe reinforcement learning
-* Safety, interpretability, and reliability in LLM
-
-
-### I'm good at
+### I'm also good at
 * Programming (Python/Typescript/C++/C) (7+ years of experience)
 * Leading full-stack application development
 * Exploring and collecting authentic local cuisines
