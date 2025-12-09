@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}<u><a href="/files/Ziyao_CV_Dec_01.pdf">[download]</a>.</u>
+{% include base_path %}<u><a href="/files/Ziyao_CV_update_v3.pdf">[download]</a>.</u>
 
 Education
 ======
